@@ -1,0 +1,52 @@
+[
+    {
+      "Title": "The Killer Bro",
+        "image": "",
+        "id":1,
+        "genre" : "Horror , Documentay",
+        "discription": "Ghosts, demons, and other entities from beyond the natural world often feature prominently. These elements create a sense of dread and unease by challenging the boundaries between reality and the supernatural."
+      
+    },
+    {
+        "Title": "House Of The Dragons",
+        "image": "https://fr.web.img4.acsta.net/pictures/23/05/17/14/30/0480031.jpg",
+        "id":2,
+        "genre" : "Suspense Mystery , Crime Drama Mystery",
+        "discription": "The central plot revolves around the struggle for power among various noble families as they vie for control of the Iron Throne of the Seven Kingdoms. Key families include the Starks, Lannisters, and Targaryens, each with their own ambitions, alliances, and conflicts. The series is known for its intricate"
+        
+        
+      },
+      {
+        "Title": "The profety",
+        "image": "https://lh4.googleusercontent.com/proxy/gpE1cS5ohNh9xdz5DWQZrMMH35Y2Wu2LuOFb9cAaaPlbmWjb1caWM51jqVqLyXYuIrEajUJ4mTFb_cTwwaZ-V0S-Cva-PO4CPrgeuSMjN1OFjgVsaFAY8g",
+        "id":3,
+        "genre" : "Dark Fantasy, Epic, Fantasy Epic",
+        "discription": "Many horror movies involve monstrous beings, such as vampires, werewolves, or mutants, that pose a direct threat to the characters. These creatures often embody primal fears and can serve as metaphors for deeper anxieties."
+        
+      },
+      {
+        "Title": "Vienna Blood",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17588014_b_v13_ab.jpg",
+        "id":4,
+        "genre" : "Prison Drama , Action , Crime",
+        "discription": "In addition to the political drama, there are supernatural elements such as dragons, White Walkers (zombie-like creatures from the North), and ancient magic. The show explores themes of power, loyalty, betrayal, and the impact of personal choices on a larger scale."
+        
+      },
+      {
+        "Title": "WatchMen",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2IzNGNiODgtOWYzOS00OTI0LTgxZTUtOTA5OTQ5YmI3NGUzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+        "id":5,
+        "genre" : "This subgenre focuses on a killer or psychopath who methodically murders a group of people. Slasher films often include graphic violence and a high body count, paired with suspenseful chase scenes and a sense of inevitable doom",
+        "discription": "Horror , Mestery , Action ,Crim"
+        
+      },
+      {
+        "Title": "Oddity",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDUxYjVmMDgtOGNhZC00ZDFiLWI5MjYtZjZkODAxYmM3ZGIyXkEyXkFqcGc@._V1_.jpg",
+        "id":6,
+        "genre" : " Fantasy , Super Natural , Action",
+        "discription": " In these films, characters are placed in life-threatening situations where they must fight for their survival against overwhelming odds, whether from hostile environments, creatures, or other dangers."
+        
+      }
+
+  ]
